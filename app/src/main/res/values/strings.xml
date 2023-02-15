@@ -7,5 +7,4 @@
         <item>Dark</item>
     </string-array>
     <string name="button_name">Find Beer</string>
-    <string name="button_d">Press Me</string>
 </resources>
